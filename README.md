@@ -1,22 +1,24 @@
 # K-means-Clustering---Online-Retail-Dataset
-This project, developed as part of my Data Mining course, applies the K-means clustering algorithm to an online retail dataset.
-# K-means Clustering - Online Retail Dataset
+Bu proje, Veri Madenciliği dersim için geliştirilmiştir ve K-means kümeleme algoritmasını online perakende veriseti üzerinde uygulamaktadır. Amacı, satın alma davranışlarına göre farklı müşteri segmentlerini belirlemektir. Analiz ve sonuçlar, müşteri tercihleri hakkında değerli bilgiler sunmakta ve hedefli pazarlama stratejilerine ışık tutmaktadır.
 
-This project, developed for my Data Mining Course, demonstrates the application of the K-means clustering algorithm on an online retail dataset. The objective is to identify distinct customer segments based on their purchasing behavior.
+# K-means Kümeleme - Online Perakende Veriseti
 
-## Project Overview
+Bu proje, Veri Madenciliği dersim için geliştirilmiş olup, K-means kümeleme algoritmasının online perakende veriseti üzerinde uygulanmasını göstermektedir. Amacı, müşterilerin satın alma davranışlarına göre farklı segmentlerini belirlemektir.
 
-- **Course**: Data Mining
-- **Algorithm**: K-means Clustering
-- **Dataset**: Online Retail Dataset
-- **Objective**: Customer segmentation
+## Proje Özeti
 
-## Features
+- **Ders**: Veri Madenciliği
+- **Algoritma**: K-means Kümeleme
+- **Veriseti**: Online Perakende Veriseti
+- **Amaç**: Müşteri segmentasyonu
 
-- Data preprocessing and cleaning
-- Implementation of K-means clustering
-- Analysis of clustering results
-- Visualization of customer segments
+## Özellikler
 
-## Video Presentation
-For a detailed walkthrough of the project, watch the YouTube video. -> https://youtu.be/ikYx8ST5ATE
+- Veri ön işleme ve temizleme
+- K-means kümeleme algoritmasının uygulanması
+- Kümeleme sonuçlarının analizi
+- Müşteri segmentlerinin görselleştirilmesi
+
+
+## Video Sunum
+Projenin detaylı anlatımı için YouTube videosunu izleyebilirsiniz. -> https://youtu.be/ikYx8ST5ATE
