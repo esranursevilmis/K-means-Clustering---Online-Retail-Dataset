@@ -1,6 +1,3 @@
-# K-means-Clustering---Online-Retail-Dataset
-Bu proje, Veri Madenciliği dersim için geliştirilmiştir ve K-means kümeleme algoritmasını online perakende veriseti üzerinde uygulamaktadır. Amacı, satın alma davranışlarına göre farklı müşteri segmentlerini belirlemektir. Analiz ve sonuçlar, müşteri tercihleri hakkında değerli bilgiler sunmakta ve hedefli pazarlama stratejilerine ışık tutmaktadır.
-
 # K-means Kümeleme - Online Perakende Veriseti
 
 Bu proje, Veri Madenciliği dersim için geliştirilmiş olup, K-means kümeleme algoritmasının online perakende veriseti üzerinde uygulanmasını göstermektedir. Amacı, müşterilerin satın alma davranışlarına göre farklı segmentlerini belirlemektir.
